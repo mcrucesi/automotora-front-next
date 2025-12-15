@@ -1,0 +1,50 @@
+:root {
+  /* Colores Martín Pescador */
+  --color-primary-500: #0077B6;
+  --color-primary-700: #005080;
+  --color-primary-100: #BEE3FF;
+
+  --color-accent-500: #F27036;
+  --color-accent-700: #CC5929;
+  --color-accent-100: #FFE3D4;
+
+  /* Colores de Estado */
+  --color-success: #38A169;
+  --color-success-light: #D4F7DF;
+  --color-error: #E53E3E;
+  --color-warning: #ECC94B;
+
+  /* Neutros */
+  --color-bg-light: #f8fafc;
+  --color-bg-card: #ffffff;
+  --color-text-main: #1e293b;
+  --color-text-subtle: #64748b;
+
+  /* Sombras */
+  --shadow-base: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+
+  /* Radios */
+  --radius-base: 0.5rem;
+  --radius-lg: 0.75rem;
+  --radius-xl: 1rem;
+  --radius-full: 9999px;
+
+  /* Espaciado */
+  --spacing-xs: 0.25rem;
+  --spacing-sm: 0.5rem;
+  --spacing-md: 1rem;
+  --spacing-lg: 1.5rem;
+  --spacing-xl: 2rem;
+
+  /* Tipografía */
+  --font-size-xs: 0.75rem;
+  --font-size-sm: 0.875rem;
+  --font-size-base: 1rem;
+  --font-size-lg: 1.125rem;
+  --font-size-xl: 1.25rem;
+  --font-size-2xl: 1.5rem;
+  --font-size-3xl: 1.875rem;
+  --font-size-4xl: 2.25rem;
+}
